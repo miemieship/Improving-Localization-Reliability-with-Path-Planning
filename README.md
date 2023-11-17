@@ -1,4 +1,5 @@
 # Improving Localization Reliability with Path Planning
+Perception-aware path planning metric design. Submission to ICRA2024.
 ## Introduction
 Just as even humans can get lost in the face of extremely monotonous or blurry observations from the eyes, not all scenarios are favorable for robot localization. To address this challenge, our objective is to identify areas that are favorable for robot localization. Existing assessment methods mainly focus on the richness of observed features, which results in potential failures when facing scenarios involving cluttered features and severe noise interference. In this paper, we propose a metric that considers these factors by introducing perturbations into the observations and analyzing how the intensity and direction of the perturbations affect pose estimation. We validate the effectiveness of our proposed metric through benchmark comparisons in various scenarios. Furthermore, we implement a planning framework that incorporates the proposed metric, enabling robots to make intelligent decisions by selecting localization-friendly topologies and sensor orientations.
 
