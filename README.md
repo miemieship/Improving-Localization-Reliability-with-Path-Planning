@@ -7,7 +7,7 @@ Just as even humans can get lost in the face of extremely monotonous or blurry o
 <img src="archieve/head.png" title="result image" width=75%/>
 </div>
 
-As the **above Figure** shows, the proposed metric is used to identify localization-friendly areas. Figure (c) illustrates the complete scene, while Figures (a) and (b) depict localized views within the scene. Figure (d) shows the result of evaluating this scenario using the proposed metric, where larger values indicate poorer observation quality and areas with a value of $0.0$ indicate obstacles. The main sensor of the localization system is a rotating LiDAR, and the observation equation of the localization system is defined as the distance between the LiDAR point and the nearest plane.
+As the **above Figure** shows, the proposed metric is used to identify localization-friendly areas. Figure (c) illustrates the complete scene, while Figures (a) and (b) depict localized views within the scene. Figure (d) shows the result of evaluating this scenario using the proposed metric, where larger values indicate poorer observation quality and areas with a value of 0.0 indicate obstacles. The main sensor of the localization system is a rotating LiDAR, and the observation equation of the localization system is defined as the distance between the LiDAR point and the nearest plane.
 
 ## vedio
 Click on the image below to watch the experimental video:
