@@ -11,8 +11,8 @@ As the **above Figure** shows, the proposed metric is used to identify localizat
 ## vedio
 Click on the image below to watch the experimental video:
 
-[![Watch the video](/path-to-your-image.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
-<iframe src="//player.bilibili.com/player.html?aid=916491163&bvid=BV1tu4y147L5&cid=1279018108&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+[![Watch the video](/path-to-your-image.jpg)](//player.bilibili.com/player.html?aid=916491163&bvid=BV1tu4y147L5&cid=1279018108&p=1)
+<iframe src="" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 ## preprint paper
 The paper is submitted to ICRA2024, which is under review now. Click [here](archieve/ICRA2024_Perception_Aware.pdf) to see the preprint version.
 
